@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PhD | Alexander Reaves</title>
+    <link>https://alexanderreaves.me/category/phd/</link>
+      <atom:link href="https://alexanderreaves.me/category/phd/index.xml" rel="self" type="application/rss+xml" />
+    <description>PhD</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 02 Jul 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://alexanderreaves.me/media/icon_hu8b0a1e8f142e442e5bb9b6c83d483525_2410_512x512_fill_lanczos_center_3.png</url>
+      <title>PhD</title>
+      <link>https://alexanderreaves.me/category/phd/</link>
+    </image>
+    
+    <item>
+      <title>How to Host Your Resume on Github</title>
+      <link>https://alexanderreaves.me/post/overleaf_github_cv/</link>
+      <pubDate>Thu, 02 Jul 2020 00:00:00 +0000</pubDate>
+      <guid>https://alexanderreaves.me/post/overleaf_github_cv/</guid>
+      <description>&lt;p&gt;I am writing this as blog post to show how I managed to make my Overleaf resume host on github then automatically update to my website. 
+This guide assumes that you are hosting your website using Github Pages (although other website hosting wervices should work with this also).&lt;/p&gt;
+&lt;p&gt;##1. Host Your Resume on Overleaf
+This is entirely optional, but I prefer to edit my Latex documents on Overleaf.&lt;/p&gt;
+&lt;p&gt;Once you have your resume on Latex&lt;/p&gt;
+&lt;p&gt;You can configure your Overleaf project to sync directly with a repository on GitHub, or you can use raw git access as described below.&lt;/p&gt;
+&lt;p&gt;To sync your project directly with GitHub, open your project, go to the Menu in the top left, and choose GitHub from the Sync section. Then follow the prompts.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
