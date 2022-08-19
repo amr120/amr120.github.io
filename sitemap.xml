@@ -4,18 +4,40 @@
   
   
   <url>
+    <loc>https://alexanderreaves.me/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/talk/example-talk/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/event/</loc><lastmod>2030-06-01T13:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2022-07-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
     <loc>https://alexanderreaves.me/post/advice_for_uk_visiting_students/</loc><lastmod>2022-07-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://alexanderreaves.me/</loc><lastmod>2022-07-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc></loc><lastmod>2022-07-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
     <loc>https://alexanderreaves.me/post/</loc><lastmod>2022-07-16T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://alexanderreaves.me/post/first_post/</loc><lastmod>2022-06-29T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+    <loc>https://alexanderreaves.me/slides/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://alexanderreaves.me/categories/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://alexanderreaves.me/slides/example/</loc><lastmod>2019-02-05T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://alexanderreaves.me/publication_types/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://alexanderreaves.me/tag/deep-learning/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://alexanderreaves.me/publication/</loc><changefreq>weekly</changefreq></url>
+    <loc>https://alexanderreaves.me/project/example/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
   <url>
-    <loc>https://alexanderreaves.me/tags/</loc><changefreq>weekly</changefreq></url></urlset>
+    <loc>https://alexanderreaves.me/project/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/tags/</loc><lastmod>2016-04-27T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/publication-type/1/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/publication/example/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/publication_types/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/publication/</loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc></loc><lastmod>2013-07-01T00:00:00+00:00</lastmod><changefreq>weekly</changefreq></url>
+  <url>
+    <loc>https://alexanderreaves.me/categories/</loc><changefreq>weekly</changefreq></url></urlset>
